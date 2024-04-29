@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288074139782",
+    "project_id": "fencingcoach",
+    "storage_bucket": "fencingcoach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288074139782:android:7b3dfa01a00ad4e7632907",
+        "android_client_info": {
+          "package_name": "com.example.fencincoachapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ875IKpNOmk4ZFx0Kn0z0H_sFQOO5DFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
